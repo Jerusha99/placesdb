@@ -1,6 +1,6 @@
 {
-  "manifestVersion": 202605250906,
-  "updatedAt": "2026-05-25T09:05:39.780046+00:00",
+  "manifestVersion": 202605250907,
+  "updatedAt": "2026-05-31T00:00:00+00:00",
   "districts": [
     {
       "name": "Jaffna",
@@ -59,7 +59,7 @@
     {
       "name": "Ampara",
       "file": "ampara.db",
-      "version": 202605250906,
+      "version": 202605250907,
       "rowCount": 41
     },
     {
