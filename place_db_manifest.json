@@ -1,6 +1,6 @@
 {
-  "manifestVersion": 202605310900,
-  "updatedAt": "2026-05-31T09:00:00+00:00",
+  "manifestVersion": 202606010900,
+  "updatedAt": "2026-06-01T09:00:00+00:00",
   "districts": [
     {
       "name": "Jaffna",
@@ -137,7 +137,7 @@
     {
       "name": "Hambantota",
       "file": "hambantota.db",
-      "version": 202605250905,
+      "version": 202606010900,
       "rowCount": 42
     },
     {
@@ -149,7 +149,7 @@
     {
       "name": "Matara",
       "file": "matara.db",
-      "version": 202605250905,
+      "version": 202606010900,
       "rowCount": 36
     }
   ]
