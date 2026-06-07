@@ -1,156 +1,156 @@
 {
-  "manifestVersion": 202606061200,
-  "updatedAt": "2026-06-06T12:00:00+00:00",
+  "manifestVersion": 202606070841,
+  "updatedAt": "2026-06-07T08:41:40+00:00",
   "districts": [
     {
-      "name": "Jaffna",
-      "file": "jaffna.db",
-      "version": 202606061200,
-      "rowCount": 18
-    },
-    {
-      "name": "Kilinochchi",
-      "file": "kilinochchi.db",
-      "version": 202606061200,
-      "rowCount": 5
-    },
-    {
-      "name": "Mullaitivu",
-      "file": "mullaitivu.db",
-      "version": 202606061200,
-      "rowCount": 5
-    },
-    {
-      "name": "Vavuniya",
-      "file": "vavuniya.db",
-      "version": 202606061200,
-      "rowCount": 3
-    },
-    {
-      "name": "Mannar",
-      "file": "mannar.db",
-      "version": 202606061200,
-      "rowCount": 11
+      "name": "Ampara",
+      "file": "ampara.db",
+      "version": 202606070841,
+      "rowCount": 39
     },
     {
       "name": "Anuradhapura",
       "file": "anuradhapura.db",
-      "version": 202606061200,
-      "rowCount": 44
-    },
-    {
-      "name": "Polonnaruwa",
-      "file": "polonnaruwa.db",
-      "version": 202606061200,
-      "rowCount": 42
-    },
-    {
-      "name": "Trincomalee",
-      "file": "trincomalee.db",
-      "version": 202606061200,
-      "rowCount": 29
-    },
-    {
-      "name": "Batticaloa",
-      "file": "batticaloa.db",
-      "version": 202606061200,
-      "rowCount": 33
-    },
-    {
-      "name": "Ampara",
-      "file": "ampara.db",
-      "version": 202606061200,
-      "rowCount": 38
-    },
-    {
-      "name": "Puttalam",
-      "file": "puttalam.db",
-      "version": 202606061200,
-      "rowCount": 28
-    },
-    {
-      "name": "Kurunegala",
-      "file": "kurunegala.db",
-      "version": 202606061200,
-      "rowCount": 54
-    },
-    {
-      "name": "Matale",
-      "file": "matale.db",
-      "version": 202606061200,
-      "rowCount": 70
-    },
-    {
-      "name": "Kandy",
-      "file": "kandy.db",
-      "version": 202606061200,
-      "rowCount": 52
-    },
-    {
-      "name": "Gampaha",
-      "file": "gampaha.db",
-      "version": 202606061200,
-      "rowCount": 48
-    },
-    {
-      "name": "Colombo",
-      "file": "colombo.db",
-      "version": 202606061200,
-      "rowCount": 51
-    },
-    {
-      "name": "Kalutara",
-      "file": "kalutara.db",
-      "version": 202606061200,
-      "rowCount": 52
-    },
-    {
-      "name": "Kegalle",
-      "file": "kegalle.db",
-      "version": 202606061200,
-      "rowCount": 78
-    },
-    {
-      "name": "Nuwara Eliya",
-      "file": "nuwara_eliya.db",
-      "version": 202606061200,
-      "rowCount": 74
+      "version": 202606070841,
+      "rowCount": 47
     },
     {
       "name": "Badulla",
       "file": "badulla.db",
-      "version": 202606061200,
-      "rowCount": 97
+      "version": 202606070841,
+      "rowCount": 94
     },
     {
-      "name": "Monaragala",
-      "file": "monaragala.db",
-      "version": 202606061200,
-      "rowCount": 19
+      "name": "Batticaloa",
+      "file": "batticaloa.db",
+      "version": 202606070841,
+      "rowCount": 36
     },
     {
-      "name": "Ratnapura",
-      "file": "ratnapura.db",
-      "version": 202606061200,
-      "rowCount": 81
-    },
-    {
-      "name": "Hambantota",
-      "file": "hambantota.db",
-      "version": 202606061200,
-      "rowCount": 42
+      "name": "Colombo",
+      "file": "colombo.db",
+      "version": 202606070841,
+      "rowCount": 54
     },
     {
       "name": "Galle",
       "file": "galle.db",
-      "version": 202606061200,
-      "rowCount": 38
+      "version": 202606070841,
+      "rowCount": 40
+    },
+    {
+      "name": "Gampaha",
+      "file": "gampaha.db",
+      "version": 202606070841,
+      "rowCount": 51
+    },
+    {
+      "name": "Hambantota",
+      "file": "hambantota.db",
+      "version": 202606070841,
+      "rowCount": 42
+    },
+    {
+      "name": "Jaffna",
+      "file": "jaffna.db",
+      "version": 202606070841,
+      "rowCount": 26
+    },
+    {
+      "name": "Kalutara",
+      "file": "kalutara.db",
+      "version": 202606070841,
+      "rowCount": 54
+    },
+    {
+      "name": "Kandy",
+      "file": "kandy.db",
+      "version": 202606070841,
+      "rowCount": 55
+    },
+    {
+      "name": "Kegalle",
+      "file": "kegalle.db",
+      "version": 202606070841,
+      "rowCount": 80
+    },
+    {
+      "name": "Kilinochchi",
+      "file": "kilinochchi.db",
+      "version": 202606070841,
+      "rowCount": 10
+    },
+    {
+      "name": "Kurunegala",
+      "file": "kurunegala.db",
+      "version": 202606070841,
+      "rowCount": 54
+    },
+    {
+      "name": "Mannar",
+      "file": "mannar.db",
+      "version": 202606070841,
+      "rowCount": 17
+    },
+    {
+      "name": "Matale",
+      "file": "matale.db",
+      "version": 202606070841,
+      "rowCount": 72
     },
     {
       "name": "Matara",
       "file": "matara.db",
-      "version": 202606061200,
-      "rowCount": 36
+      "version": 202606070841,
+      "rowCount": 39
+    },
+    {
+      "name": "Monaragala",
+      "file": "monaragala.db",
+      "version": 202606070841,
+      "rowCount": 22
+    },
+    {
+      "name": "Mullaitivu",
+      "file": "mullaitivu.db",
+      "version": 202606070841,
+      "rowCount": 11
+    },
+    {
+      "name": "Nuwara Eliya",
+      "file": "nuwara_eliya.db",
+      "version": 202606070841,
+      "rowCount": 75
+    },
+    {
+      "name": "Polonnaruwa",
+      "file": "polonnaruwa.db",
+      "version": 202606070841,
+      "rowCount": 45
+    },
+    {
+      "name": "Puttalam",
+      "file": "puttalam.db",
+      "version": 202606070841,
+      "rowCount": 30
+    },
+    {
+      "name": "Ratnapura",
+      "file": "ratnapura.db",
+      "version": 202606070841,
+      "rowCount": 83
+    },
+    {
+      "name": "Trincomalee",
+      "file": "trincomalee.db",
+      "version": 202606070841,
+      "rowCount": 32
+    },
+    {
+      "name": "Vavuniya",
+      "file": "vavuniya.db",
+      "version": 202606070841,
+      "rowCount": 8
     }
   ]
 }
