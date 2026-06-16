@@ -1,6 +1,6 @@
 {
   "manifestVersion": 202606141117,
-  "updatedAt": "2026-06-15T16:14:45.510891",
+  "updatedAt": "2026-06-16T12:02:23.103555",
   "districts": [
     {
       "name": "Ampara",
@@ -17,8 +17,8 @@
     {
       "name": "Badulla",
       "file": "badulla.db",
-      "version": "202606141123",
-      "rowCount": 85
+      "version": "202606141124",
+      "rowCount": 86
     },
     {
       "name": "Batticaloa",
@@ -35,19 +35,19 @@
     {
       "name": "Galle",
       "file": "galle.db",
-      "version": "202606141122",
+      "version": "202606141123",
       "rowCount": 36
     },
     {
       "name": "Gampaha",
       "file": "gampaha.db",
-      "version": "202606141123",
+      "version": "202606141124",
       "rowCount": 47
     },
     {
       "name": "Hambantota",
       "file": "hambantota.db",
-      "version": "202606141122",
+      "version": "202606141123",
       "rowCount": 41
     },
     {
@@ -59,13 +59,13 @@
     {
       "name": "Kalutara",
       "file": "kalutara.db",
-      "version": "202606141123",
+      "version": "202606141124",
       "rowCount": 47
     },
     {
       "name": "Kandy",
       "file": "kandy.db",
-      "version": "202606141124",
+      "version": "202606141125",
       "rowCount": 46
     },
     {
@@ -77,19 +77,19 @@
     {
       "name": "Kilinochchi",
       "file": "kilinochchi.db",
-      "version": "202606141122",
+      "version": "202606141123",
       "rowCount": 13
     },
     {
       "name": "Kurunegala",
       "file": "kurunegala.db",
-      "version": "202606141123",
+      "version": "202606141124",
       "rowCount": 55
     },
     {
       "name": "Mannar",
       "file": "mannar.db",
-      "version": "202606141122",
+      "version": "202606141123",
       "rowCount": 20
     },
     {
@@ -125,13 +125,13 @@
     {
       "name": "Polonnaruwa",
       "file": "polonnaruwa.db",
-      "version": "202606141122",
+      "version": "202606141123",
       "rowCount": 44
     },
     {
       "name": "Puttalam",
       "file": "puttalam.db",
-      "version": "202606141123",
+      "version": "202606141124",
       "rowCount": 29
     },
     {
@@ -143,13 +143,13 @@
     {
       "name": "Trincomalee",
       "file": "trincomalee.db",
-      "version": "202606141122",
+      "version": "202606141123",
       "rowCount": 32
     },
     {
       "name": "Vavuniya",
       "file": "vavuniya.db",
-      "version": "202606141123",
+      "version": "202606141124",
       "rowCount": 11
     }
   ]
