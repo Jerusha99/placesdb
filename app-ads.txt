@@ -1,0 +1,3 @@
+# App-Ads.txt for Jaya Lanka Journey
+# See https://www.iabtechlab.com/app-ads-txt-spec
+google.com, pub-8646906465153512, DIRECT, f08c47fec0942fa0
