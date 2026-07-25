@@ -1,35 +1,35 @@
 {
-  "manifestVersion": 202606202043,
-  "updatedAt": "2026-06-20T20:43:26.143480",
+  "manifestVersion": 202607252045,
+  "updatedAt": "2026-07-25T20:45:00.000000",
   "districts": [
     {
       "name": "Ampara",
       "file": "ampara.db",
-      "version": "202606190033",
-      "rowCount": 39
+      "version": "202607252045",
+      "rowCount": 37
     },
     {
       "name": "Anuradhapura",
       "file": "anuradhapura.db",
-      "version": "202606190033",
+      "version": "202607252045",
       "rowCount": 42
     },
     {
       "name": "Badulla",
       "file": "badulla.db",
-      "version": "202606190033",
-      "rowCount": 86
+      "version": "202607252045",
+      "rowCount": 83
     },
     {
       "name": "Batticaloa",
       "file": "batticaloa.db",
-      "version": "202606190033",
-      "rowCount": 35
+      "version": "202607252045",
+      "rowCount": 33
     },
     {
       "name": "Colombo",
       "file": "colombo.db",
-      "version": "202606190033",
+      "version": "202607252045",
       "rowCount": 52
     },
     {
@@ -41,62 +41,62 @@
     {
       "name": "Gampaha",
       "file": "gampaha.db",
-      "version": "202606190033",
-      "rowCount": 47
+      "version": "202607252045",
+      "rowCount": 44
     },
     {
       "name": "Hambantota",
       "file": "hambantota.db",
-      "version": "202606190033",
+      "version": "202607252045",
       "rowCount": 41
     },
     {
       "name": "Jaffna",
       "file": "jaffna.db",
-      "version": "202606190033",
-      "rowCount": 38
+      "version": "202607252045",
+      "rowCount": 37
     },
     {
       "name": "Kalutara",
       "file": "kalutara.db",
-      "version": "202606190033",
-      "rowCount": 47
+      "version": "202607252045",
+      "rowCount": 45
     },
     {
       "name": "Kandy",
       "file": "kandy.db",
-      "version": "202606190033",
-      "rowCount": 45
+      "version": "202607252045",
+      "rowCount": 41
     },
     {
       "name": "Kegalle",
       "file": "kegalle.db",
-      "version": "202606190033",
+      "version": "202607252045",
       "rowCount": 75
     },
     {
       "name": "Kilinochchi",
       "file": "kilinochchi.db",
-      "version": "202606190033",
+      "version": "202607252045",
       "rowCount": 13
     },
     {
       "name": "Kurunegala",
       "file": "kurunegala.db",
-      "version": "202606190033",
-      "rowCount": 53
+      "version": "202607252045",
+      "rowCount": 52
     },
     {
       "name": "Mannar",
       "file": "mannar.db",
-      "version": "202606190033",
-      "rowCount": 18
+      "version": "202607252045",
+      "rowCount": 17
     },
     {
       "name": "Matale",
       "file": "matale.db",
-      "version": "202606190033",
-      "rowCount": 69
+      "version": "202607252045",
+      "rowCount": 63
     },
     {
       "name": "Matara",
@@ -107,51 +107,51 @@
     {
       "name": "Monaragala",
       "file": "monaragala.db",
-      "version": "202606190033",
+      "version": "202607252045",
       "rowCount": 24
     },
     {
       "name": "Mullaitivu",
       "file": "mullaitivu.db",
-      "version": "202606190033",
-      "rowCount": 20
+      "version": "202607252045",
+      "rowCount": 15
     },
     {
       "name": "Nuwara Eliya",
       "file": "nuwara_eliya.db",
-      "version": "202606190033",
-      "rowCount": 71
+      "version": "202607252045",
+      "rowCount": 69
     },
     {
       "name": "Polonnaruwa",
       "file": "polonnaruwa.db",
-      "version": "202606190033",
-      "rowCount": 44
+      "version": "202607252045",
+      "rowCount": 43
     },
     {
       "name": "Puttalam",
       "file": "puttalam.db",
-      "version": "202606190033",
-      "rowCount": 29
+      "version": "202607252045",
+      "rowCount": 24
     },
     {
       "name": "Ratnapura",
       "file": "ratnapura.db",
-      "version": "202606190033",
-      "rowCount": 82
+      "version": "202607252045",
+      "rowCount": 74
     },
     {
       "name": "Trincomalee",
       "file": "trincomalee.db",
-      "version": "202606190033",
-      "rowCount": 32
+      "version": "202607252045",
+      "rowCount": 29
     },
     {
       "name": "Vavuniya",
       "file": "vavuniya.db",
-      "version": "202606190033",
-      "rowCount": 11
+      "version": "202607252045",
+      "rowCount": 8
     }
   ],
-  "lastUpdated": "2026-06-18T19:03:37Z"
+  "lastUpdated": "2026-07-25T20:45:00Z"
 }
