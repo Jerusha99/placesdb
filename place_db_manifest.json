@@ -1,6 +1,6 @@
 {
-  "manifestVersion": 202607252045,
-  "updatedAt": "2026-07-25T20:45:00.000000",
+  "manifestVersion": 202607252130,
+  "updatedAt": "2026-07-25T21:30:00.000000",
   "districts": [
     {
       "name": "Ampara",
@@ -35,7 +35,7 @@
     {
       "name": "Galle",
       "file": "galle.db",
-      "version": "202606190033",
+      "version": "202607252130",
       "rowCount": 36
     },
     {
@@ -53,7 +53,7 @@
     {
       "name": "Jaffna",
       "file": "jaffna.db",
-      "version": "202607252045",
+      "version": "202607252130",
       "rowCount": 37
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Kilinochchi",
       "file": "kilinochchi.db",
-      "version": "202607252045",
+      "version": "202607252130",
       "rowCount": 13
     },
     {
@@ -89,7 +89,7 @@
     {
       "name": "Mannar",
       "file": "mannar.db",
-      "version": "202607252045",
+      "version": "202607252130",
       "rowCount": 17
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Matara",
       "file": "matara.db",
-      "version": "202606190033",
+      "version": "202607252130",
       "rowCount": 40
     },
     {
@@ -113,7 +113,7 @@
     {
       "name": "Mullaitivu",
       "file": "mullaitivu.db",
-      "version": "202607252045",
+      "version": "202607252130",
       "rowCount": 15
     },
     {
@@ -131,7 +131,7 @@
     {
       "name": "Puttalam",
       "file": "puttalam.db",
-      "version": "202607252045",
+      "version": "202607252130",
       "rowCount": 24
     },
     {
@@ -149,9 +149,9 @@
     {
       "name": "Vavuniya",
       "file": "vavuniya.db",
-      "version": "202607252045",
+      "version": "202607252130",
       "rowCount": 8
     }
   ],
-  "lastUpdated": "2026-07-25T20:45:00Z"
+  "lastUpdated": "2026-07-25T21:30:00Z"
 }
